@@ -1,3 +1,5 @@
+def add():
+	print "ADD"
 def main():
 	print "HELLO"
 

@@ -3,12 +3,7 @@ def add():
 def main():
 	print "HELLO"
 	print "WORLD"
-	print "fdsfdslkfdsklafd"
-####
-fdnsjal;fdnsjak;fmdksla;
-faskd'fklds;'afd
-faskdlfkdsl
-####
+	print "GOODBYE WORLD"
 
 if __name__ == '__main__':
 	main()
